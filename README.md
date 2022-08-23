@@ -1,2 +1,2 @@
 # Chess
-Python based chess game
+Python-based chess game
