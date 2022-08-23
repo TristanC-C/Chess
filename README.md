@@ -1,2 +1,2 @@
 # Chess
-A chess game programmed with pygame
+Python based chess game
